@@ -1,0 +1,28 @@
+.micuenta {
+    margin-left: 0.5rem;
+    padding-top: 1rem;
+ }
+ .btn-info {
+     background-color: white;
+     border: #20caf1;
+     color: #20caf1;
+     font-size: 1rem;
+ }
+ .btn-info:hover {
+     background-color: #20caf1;
+     color: white;
+ }
+ #boton1 {
+     background-color: #20caf1;
+     color: white;
+ }
+ 
+ #boton1:hover {
+     background-color: white;
+     color: #20caf1;
+ }
+ 
+ .contraseña {
+     margin-bottom: 5rem;
+     padding-left: 2rem;
+ }
