@@ -1,23 +1,54 @@
+
 .img-thumbnail{
-    height: 50px;
-    width: 50px;
-    border-radius: 25px;
-    border: 3px solid rgb(32, 128, 206);
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  border: 3px solid rgb(32, 128, 206);
 }
 .card{
-    border: #b4cdd9 2px solid;
-    
-    
+  border: #b4cdd9 2px solid;
+
+
 }
 .card-img-top{
-    padding: 0 10px 0 10px;
+  padding: 0 10px 0 10px;
 }
 .card-header{
-    background-color: white;
-    border: none;
-    
+  background-color: white;
+  border: none;
+
 }
 .container-fluid{
-    background: rgb(248,247,255);
+  background: rgb(248,247,255);
 background: radial-gradient(circle, rgba(248,247,255,1) 0%, rgba(9,99,121,1) 46%, rgba(111,138,172,1) 72%, rgba(0,212,255,1) 100%);
 }
+
+.micuenta {
+  margin-left: 0.5rem;
+  padding-top: 1rem;
+}
+.btn-info {
+   background-color: white;
+   border: #20caf1;
+   color: #20caf1;
+   font-size: 1rem;
+}
+.btn-info:hover {
+   background-color: #20caf1;
+   color: white;
+}
+#boton1 {
+   background-color: #20caf1;
+   color: white;
+}
+
+#boton1:hover {
+   background-color: white;
+   color: #20caf1;
+}
+
+.contraseña {
+   margin-bottom: 5rem;
+   padding-left: 2rem;
+}
+
